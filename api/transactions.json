@@ -1,0 +1,4 @@
+[
+  { "id": 101, "amount": 2500, "type": "credit", "date": "2025-08-01" },
+  { "id": 102, "amount": 1200, "type": "debit", "date": "2025-08-02" }
+]
